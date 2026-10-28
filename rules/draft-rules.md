@@ -25,5 +25,10 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+When a player runs out of health they explode in real life. Then everyone else dances.
+This makes people afraid to play the game and those who do take it more seriously
+
+## Script-generated rules
+
+- A unit that survives combat gains 1 health.
+- A player with no units at the start of a round loses 2 health.

@@ -38,6 +38,8 @@ No More Hero's 2
     Solo | It is a single player action game with smooth combat that you can combo together, which would not work in a PVP setting making it feel really chaotic and special
     Perfect | Suda51 the director is seen as a huge deal in the game design community among professionals with the company GrassHopper Manufacturing almost exlusivly using him to direct all of their games. His popularity also allowed him to work with other game directors like the director of Silent Hill.
 
+I would rather work on No More Hero's 2 due to it's reputation. I would love to be in a piece of Game Designing history like that.
+
 ## 3. Chess and Texas Hold'em
 
 Both are two-player competitive games. Describe how hidden information and

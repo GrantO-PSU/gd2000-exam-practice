@@ -47,7 +47,8 @@ randomness change what the player is actually doing in each. Then give one
 concrete design consequence: something you would have to change if you moved
 chess's rules to poker's information model, or the other way around.
 
-Both of the games have a very in common trait when it comes to info being delivered to the player and it is simply that you cannot read your opponents mind. Allowing players to hide their end goal while slowly exposing it.
+Texas Hold'em has hidden info within cards. Chess does not and in chess the only secret is what you plan to do next.
+
 
 If you wanted to directly combine the 2, make people play poker and choose from a pot of pieces for the chess game. Then when chess start is is semi random who has what.
 
@@ -73,7 +74,12 @@ Game: Pac-Man
 
 The gameplay loop is grabbing the pellets in each level while avoiding the ghosts, in this game of cat and mouse that switches while the game goes.
 
+
+## Your AI did not like this awnser
 If you were to tear any element out of the game the entire basis of the game crumbles. This is probably due to its age as a game, but it is also a great example of good game design. Remove a ghost the game is easier, remove a power pellet now the game is way too hard.
+## New Awnser
+Let's remove pac-man being able to move around the stage that would ruin the whole game and no one would ever want to play it again.
+
 
 ## 6. Autobattler design
 
